@@ -1,0 +1,19 @@
+# Data Processing
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+ipykernel
+
+# ML Tracking (we'll use this soon)
+mlflow
+
+# Utilities
+python-dotenv
+pyyaml
